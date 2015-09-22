@@ -1,6 +1,6 @@
-Draggable
+# Draggable
 
-Makes stuff draggable, because who needs jQueryUI?
+Makes stuff draggable, when you don't feel like loading jQueryUI.
 
 ```
 new DraggableContainer(someID, [overlapY, overlapX]);
